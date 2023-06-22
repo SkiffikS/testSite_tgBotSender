@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../fonts/Helvetica.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Helvetica';
+  color: dark;
+  background-color: white;
+  font-size: 14px;
+  font-weight: 400;
+  overflow-x: hidden;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+nav {
+  background: #2b2b2b;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-size: 41px;
+  font-weight: bold;
+}
+.container {
+  max-width: 1780px;
+}
